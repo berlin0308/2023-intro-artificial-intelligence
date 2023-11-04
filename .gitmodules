@@ -1,0 +1,3 @@
+[submodule "HW3_NLP_LLMAPI/HW3_NLP_LLMAPI/nlp_lab"]
+	path = HW3_NLP_LLMAPI/HW3_NLP_LLMAPI/nlp_lab
+	url = https://github.com/hongsheng-lai/nlp_lab
