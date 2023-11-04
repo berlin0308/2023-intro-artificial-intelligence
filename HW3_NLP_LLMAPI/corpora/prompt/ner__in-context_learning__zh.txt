@@ -1,0 +1,20 @@
+Extract names of persons, locations, organizations from the article in Chinese.
+
+Article 1:
+拿破崙倒台後，維也納會議成立了德意志邦聯，這是一個由39個主權國家組成的鬆散聯盟。奧地利皇帝被任命為永久主席，反映了會議對普魯士日益增長影響力的拒絕。恢復政治內部的分歧部分導致了自由主義運動的興起，隨後是奧地利政治家克萊門斯·馮·梅特涅的新壓制措施。關稅同盟（Zollverein）進一步促進了經濟統一。在歐洲革命運動的背景下，知識分子和普羅大眾在德意志各邦發起了1848年的革命，提出了德意志問題。普魯士國王弗雷德里希·威廉四世被提供皇帝頭銜，但隨之權力將會喪失；他拒絕了皇冠和建議的憲法，這對運動是一次暫時的挫折。
+
+Article 1 mentions:
+- 拿破崙 (person)
+- 維也納會議 (organization)
+- 德意志邦聯 (location)
+- 奧地利 (location)
+- 普魯士 (location)
+- 克萊門斯·馮·梅特涅 (person)
+- 關稅同盟 (organization)
+- 歐洲 (location)
+- 弗雷德里希·威廉四世 (person)
+
+Article 2:
+INPUT_PLACEHOLDER
+
+Article 2 mentions:

@@ -1,0 +1,8 @@
+List those sentences that show "an entity harmed another entity". For each such sentence, specify:
+- the original sentence: ?
+- the harming entity: ?
+- the harmed entity: ?
+- how the harm is done: ?
+
+Sentences:
+INPUT_PLACEHOLDER

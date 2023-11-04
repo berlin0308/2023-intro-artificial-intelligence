@@ -1,0 +1,4 @@
+Summarize the event in the article. Use at most three sentences.
+
+Article:
+INPUT_PLACEHOLDER

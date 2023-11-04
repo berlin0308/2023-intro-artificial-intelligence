@@ -1,0 +1,24 @@
+Task:
+List those sentences that show "an entity consumes another entity".
+
+Article:
+Most bears are opportunistic omnivores and consume more plant than animal matter, and appears to have evolved from an ancestor which was a low-protein macronutrient omnivore. They eat anything from leaves, roots, and berries to insects, carrion, fresh meat, and fish, and have digestive systems and teeth adapted to such a diet. At the extremes are the almost entirely herbivorous giant panda and the mostly carnivorous polar bear. However, all bears feed on any food source that becomes seasonally available. For example, Asiatic black bears in Taiwan consume large numbers of acorns when these are most common, and switch to ungulates at other times of the year.
+
+List:
+1. - original sentence: Most bears are opportunistic omnivores and consume more plant than animal matter, and appears to have evolved from an ancestor which was a low-protein macronutrient omnivore.
+   - consumer: bears
+   - consumed: plant, animal matter
+2. - original sentence: They eat anything from leaves, roots, and berries to insects, carrion, fresh meat, and fish, and have digestive systems and teeth adapted to such a diet. 
+   - consumer: bears
+   - consumed: leaves, roots, berries, insects, carrion, fresh meat, fish
+3. - original sentence: For example, Asiatic black bears in Taiwan consume large numbers of acorns when these are most common, and switch to ungulates at other times of the year.
+   - consumer: Asiatic black bears
+   - consumed: acorns, ungulates
+
+Task:
+List those sentences that show "an entity harmed another entity".
+
+Article:
+INPUT_PLACEHOLDER
+
+List:

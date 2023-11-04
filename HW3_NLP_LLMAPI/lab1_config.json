@@ -1,0 +1,9 @@
+{
+    "task_list": ["ner", "rel", "sum"],
+    "prompt_method_list": ["instruction", "in-context_learning"],
+    "language_list": ["en", "zh"],
+    "model": "gpt-3.5-turbo",
+    "news_dir": ["corpora", "news"],
+    "prompt_dir": ["corpora", "prompt"],
+    "output_dir": ["lab1_output"]
+}

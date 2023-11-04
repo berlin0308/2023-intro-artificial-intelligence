@@ -1,0 +1,20 @@
+Extract names of persons, locations, organizations from the article.
+
+Article 1:
+Following the fall of Napoleon, the Congress of Vienna founded the German Confederation, a loose league of 39 sovereign states. The appointment of the emperor of Austria as the permanent president reflected the Congress's rejection of Prussia's rising influence. Disagreement within restoration politics partly led to the rise of liberal movements, followed by new measures of repression by Austrian statesman Klemens von Metternich. The Zollverein, a tariff union, furthered economic unity. In light of revolutionary movements in Europe, intellectuals and commoners started the revolutions of 1848 in the German states, raising the German question. King Frederick William IV of Prussia was offered the title of emperor, but with a loss of power; he rejected the crown and the proposed constitution, a temporary setback for the movement.
+
+Article 1 mentions:
+- Napoleon (person)
+- Congress of Vienna (organization)
+- German Confederation (location)
+- Austria (location)
+- Prussia (location)
+- Klemens von Metternich (person)
+- Zollverein (organization)
+- Europe (location)
+- Frederick William IV (person)
+
+Article 2:
+INPUT_PLACEHOLDER
+
+Article 2 mentions:

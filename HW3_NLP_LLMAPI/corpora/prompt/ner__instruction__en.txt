@@ -1,0 +1,4 @@
+Extract entities of persons, locations, organizations from the article.
+
+Article:
+INPUT_PLACEHOLDER

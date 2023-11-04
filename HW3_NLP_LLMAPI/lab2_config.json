@@ -1,0 +1,6 @@
+{
+    "model": "gpt-3.5-turbo",
+    "static_dir": ["corpora", "druid"],
+    "state_dir": ["lab2_output", "state"],
+    "output_dir": ["lab2_output"]
+}

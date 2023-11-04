@@ -1,0 +1,39 @@
+List those sentences that show "an entity harmed another entity". For each such sentence, specify:
+- the original sentence: ?
+- the harming entity: ?
+- the harmed entity: ?
+- how the harm is done: ?
+
+Sentences:
+In early August 2023, a series of wildfires broke out in the U.S. state of Hawaii, predominantly on the island of Maui. The wind-driven fires prompted evacuations, caused widespread damage, killing at least 115 people and leaving 388 others missing in the town of Lāhainā. The proliferation of the wildfires was attributed to dry, gusty conditions created by a strong high-pressure area north of Hawaii and Hurricane Dora to the south.
+An emergency declaration was signed on August 8, authorizing several actions, including activation of the Hawaii National Guard, appropriate actions by the director of the Hawaii Emergency Management Agency and the Administrator of Emergency Management, and the expenditure of state general revenue funds for relief of conditions created by the fires. By August 9, the state government of Hawaii issued a state of emergency for the entirety of the state. On August 10, U.S. President Joe Biden issued a federal major disaster declaration.
+For the Lāhainā fire alone, the Pacific Disaster Center (PDC) and the Federal Emergency Management Agency (FEMA) estimated that over 2,200 buildings had been destroyed, overwhelmingly residential and including many historic landmarks in Lāhainā. The damage caused by the fire has been estimated at nearly $6 billion.
+
+####################################################################################################
+# OUTPUT
+####################################################################################################
+
+Original sentence: In early August 2023, a series of wildfires broke out in the U.S. state of Hawaii, predominantly on the island of Maui.
+Harming entity: Wildfires
+Harmed entity: Hawaii (state)
+How the harm is done: The wildfires caused damage to the state of Hawaii, predominantly on the island of Maui.
+
+Original sentence: The wind-driven fires prompted evacuations, caused widespread damage, killing at least 115 people and leaving 388 others missing in the town of Lāhainā.
+Harming entity: Wildfires
+Harmed entity: Residents of Lāhainā
+How the harm is done: The wildfires caused evacuation, widespread damage, and loss of life and missing persons in the town of Lāhainā.
+
+Original sentence: The proliferation of the wildfires was attributed to dry, gusty conditions created by a strong high-pressure area north of Hawaii and Hurricane Dora to the south.
+Harming entity: Dry, gusty conditions and Hurricane Dora
+Harmed entity: Hawaii (state)
+How the harm is done: The dry, gusty conditions and the presence of Hurricane Dora contributed to the proliferation of the wildfires in Hawaii.
+
+Original sentence: For the Lāhainā fire alone, the Pacific Disaster Center (PDC) and the Federal Emergency Management Agency (FEMA) estimated that over 2,200 buildings had been destroyed, overwhelmingly residential and including many historic landmarks in Lāhainā.
+Harming entity: Lāhainā fire
+Harmed entity: Buildings in Lāhainā
+How the harm is done: The fire in Lāhainā destroyed over 2,200 buildings, including residential properties and historic landmarks.
+
+Original sentence: The damage caused by the fire has been estimated at nearly $6 billion.
+Harming entity: Lāhainā fire
+Harmed entity: Infrastructure and economy
+How the harm is done: The fire caused significant damage, estimated at nearly $6 billion, to the overall infrastructure and economy.
