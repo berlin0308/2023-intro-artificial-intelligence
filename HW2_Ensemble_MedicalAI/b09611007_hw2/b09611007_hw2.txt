@@ -1,0 +1,2 @@
+8:2
+SVC > Random Forest > KNN > Ensemble Model > XGBoost > Decision Tree
